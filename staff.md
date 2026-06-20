@@ -3,14 +3,14 @@
 **Effective Date:** 01/06/2026 
 **Last Updated:** 01/06/2026  
 **Company Name:** Trayadi Private Limited  
-**Application Name:** DigiEdu-staff 
+**Application Name:** FLY Campus Teacher 
 **Contact Email:** trayadi.office@gmail.com
 
 ---
 
 # 1. INTRODUCTION
 
-This Privacy Policy (“Policy”) explains how Trayadi private limited, including its affiliates, subsidiaries, licensors, contractors, development partners, and authorized associates (collectively, the “Company,” “we,” “our,” or “us”), collects, uses, stores, processes, protects, and discloses information in connection with the use of the DigiEdu-staff mobile application, website, software platform, digital services, educational tools, and related features (collectively, the “Service”).
+This Privacy Policy (“Policy”) explains how Trayadi private limited, including its affiliates, subsidiaries, licensors, contractors, development partners, and authorized associates (collectively, the “Company,” “we,” “our,” or “us”), collects, uses, stores, processes, protects, and discloses information in connection with the use of the FLY Campus Teacher mobile application, website, software platform, digital services, educational tools, and related features (collectively, the “Service”).
 
 By accessing, downloading, installing, registering for, or using the Service, staff, teachers, administrators, and any associated representatives acknowledge and agree to this Policy.
 
