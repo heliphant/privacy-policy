@@ -49,8 +49,6 @@ Depending on the functionality of the Service, we may collect the following cate
 Depending on features enabled by the user or institution, the Service may request access to:
 
 - **Location Services (Always Allow or While In Use)**
-- Camera
-- Microphone
 - Notifications
 - Internet connectivity
 - Storage access
